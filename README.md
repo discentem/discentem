@@ -1,13 +1,19 @@
 ### Hi there, I'm BK 👋
 
-I am Client Platform Engineer @ Airbnb where I help manage macOS, Windows, and ChromeOS endpoints 💻
+I am Client Platform Engineer managing macOS, Windows, and ChromeOS endpoints 💻 
 
+I like to write golang, utilize configuration management, and contribute open-source.
 
+## Some of my recent projects...
 
-My team likes to use golang, config management, and open-source management tools to manage our fleets of end-user computers. 
+### [Nanomdmsandbox](https://github.com/discentem/nanomdmsandbox)
 
-**Disclaimer**: Views are my own and do not necessary reflect those of my employer.
+A project that tries to make it easier to spin up a development and testing environment for [Nanomdm](https://github.com/micromdm/nanomdm). To learn more, you can check out [this talk](https://github.com/radsec) that [@radsec](https://github.com/radsec) and I gave at MacDevOpsYVR22 about the project. 
 
-## Recent Projects
+### [Getting started with Windows Imaging & Glazier (Part 1)](https://bkurtz.io/posts/glazier/) 
 
-[Nanomdmsandbox](https://github.com/discentem/nanomdmsandbox): a project that tries to make it easier to spin up a development/testing environment for [Nanomdm](https://github.com/micromdm/nanomdm). It definitely approaches something that could be production ready, but might require tweaks for your environment. To learn more, you can check out [this talk](https://github.com/radsec) that [@radsec](https://github.com/radsec) and I gave at MacDevOpsYVR22 about the project. 
+An attempt to streamline and automate the setup details and share a reproducible way to create a WinPE ISO that supports [github.com/google/glazier](github.com/google/glazier). 
+
+### [gogopilotregister](https://github.com/discentem/gogopilotregister)
+
+A pure go implementation of [`Get-WindowsAutopilotInfo -Online`](https://docs.microsoft.com/en-us/mem/autopilot/add-devices)
