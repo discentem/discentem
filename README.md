@@ -1,6 +1,6 @@
 ### Hi there, I'm BK 👋
 
-I am Client Platform Engineer managing macOS, Windows, and ChromeOS endpoints 💻 
+I am a Client Platform Engineer managing macOS, Windows, and ChromeOS endpoints 💻 
 
 I like to write golang, utilize configuration management, and contribute open-source.
 
