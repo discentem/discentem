@@ -8,11 +8,11 @@ I like to write golang, utilize configuration management, and contribute open-so
 
 ### [Nanomdmsandbox](https://github.com/discentem/nanomdmsandbox)
 
-A project that tries to make it easier to spin up a development and testing environment for [Nanomdm](https://github.com/micromdm/nanomdm). To learn more, you can check out [this talk](https://github.com/radsec) that [@radsec](https://github.com/radsec) and I gave at MacDevOpsYVR22 about the project. 
+A project that makes it easy to spin up [Nanomdm](https://github.com/micromdm/nanomdm). To learn more, check out [this talk](https://github.com/radsec) that [@radsec](https://github.com/radsec) and I gave at MacDevOpsYVR22.
 
 ### [Getting started with Windows Imaging & Glazier (Part 1)](https://bkurtz.io/posts/glazier/) 
 
-An attempt to streamline and automate the setup details and share a reproducible way to create a WinPE ISO that supports [github.com/google/glazier](github.com/google/glazier). 
+A repeatable way to create a WinPE ISO that supports [github.com/google/glazier](github.com/google/glazier). 
 
 ### [gogopilotregister](https://github.com/discentem/gogopilotregister)
 
