@@ -15,7 +15,7 @@ I like to write golang, utilize configuration management, and contribute open-so
 
 ### [Cavorite](https://github.com/discentem/cavorite)
 
-A cli tool that makes it easy to track large, binary files in source control repositories with support for s3, minio, Google Cloud Storage, and probably other storage systems in the future. It's easily extensible by implementing a simple interface. 
+A cli tool that makes it easy to track large, binary files in source control repositories by swapping the binary files with json metadata. Inspired by [https://github.com/facebook/IT-CPE/tree/main/pantri](pantri), Cavorite is a rewrite in Go with support for s3, Minio, Google Cloud Storage, and other storage systems through runtime plugins.
 
 ### [Nanomdmsandbox](https://github.com/discentem/nanomdmsandbox)
 
