@@ -7,15 +7,13 @@ I like to write golang, utilize configuration management, and contribute to open
 ## Some of my recent projects...
 
 ### [Starcm](https://github.com/discentem/starcm)
-"star-cm"
+"star-see-m"
 
-- A rudimentary configuration management language that utilizes Starlark instead of json or yaml.
-- Why Starlark? It provides variables, functions, loops, and lots more "for free" inside of the configuration files!
-- Starcm is not intended to be a full replacement for tools like Chef or Ansible, but starcm can be used to bootstrap these tools and many others through features like `exec()` for calling binaries, `template()` for rendering templated files, `load_dynamic()` for loading additional starcm config files dynamically, and much more!
+A rudimentary configuration management language that utilizes Starlark instead of json or yaml.
 
 ### [Cavorite](https://github.com/discentem/cavorite)
 
-A cli tool that makes it easy to track large, binary files in source control repositories by swapping the binary files with json metadata. Inspired by [pantri](https://github.com/facebook/IT-CPE/tree/main/pantri), Cavorite is a rewrite in Go with support for s3, Minio, Google Cloud Storage, and other storage systems through runtime plugins.
+A cli tool that makes it easy to track large, binary files in source control repositories by swapping the binary files with json metadata. Cavorite has support support for s3, Minio, Google Cloud Storage, and other artibrary storage systems through runtime plugins.
 
 ### [Nanomdmsandbox](https://github.com/discentem/nanomdmsandbox)
 
