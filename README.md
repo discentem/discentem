@@ -2,7 +2,7 @@
 
 I am a Client Platform Engineer managing macOS, Windows, and ChromeOS endpoints 💻 
 
-I like to write golang, utilize configuration management, and contribute open-source.
+I like to write golang, utilize configuration management, and contribute to open-source.
 
 ## Some of my recent projects...
 
