@@ -4,7 +4,9 @@ I am a Client Platform Engineer managing macOS, Windows, and ChromeOS endpoints 
 
 I like to write golang, utilize configuration management, and contribute to open-source.
 
-## Some of my recent projects...
+I occasionally blog at [https://bkurtz.io](https://bkurtz.io). 
+
+## Recent Projects
 
 ### [Starcm](https://github.com/discentem/starcm)
 "star-see-m"
