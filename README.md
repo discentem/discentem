@@ -8,18 +8,18 @@ I occasionally blog at [https://bkurtz.io](https://bkurtz.io).
 
 ## Recent Projects
 
-### [Starcm](https://github.com/discentem/starcm)
-"star-see-m"
+### [S3Repo](https://github.com/discentem/s3repo)
 
-A rudimentary configuration management language that utilizes Starlark instead of json or yaml.
+This project provides a [repo plugin](https://github.com/munki/munki/wiki/Repo-Plugins#munki-7-notes) for Munki 7 to work with an S3 backend.
 
 ### [Cavorite](https://github.com/discentem/cavorite)
 
 A cli tool that makes it easy to track large, binary files in source control repositories by swapping the binary files with json metadata. Cavorite has support support for s3, Minio, Google Cloud Storage, and other artibrary storage systems through runtime plugins.
 
-### [Nanomdmsandbox](https://github.com/discentem/nanomdmsandbox)
+### [Starcm](https://github.com/discentem/starcm)
+"star-see-m"
 
-A project that makes it easy to spin up [Nanomdm](https://github.com/micromdm/nanomdm). To learn more, check out [this talk](https://github.com/radsec) that [@radsec](https://github.com/radsec) and I gave at MacDevOpsYVR22.
+A rudimentary configuration management language that utilizes Starlark instead of json or yaml.
 
 ### [Getting started with Windows Imaging & Glazier (Part 1)](https://bkurtz.io/posts/glazier/) 
 
