@@ -1,8 +1,8 @@
 ### Hi there, I'm BK 👋
 
-I am a Client Platform Engineer managing macOS, Windows, and ChromeOS endpoints 💻 
+I am a Client Platform Engineer managing macOS and Windows endpoints 💻 
 
-I like to write golang, utilize configuration management, and contribute to open-source.
+I like to use Python, Go, AI coding assistants, and GitOps for doing my work.
 
 I occasionally blog at [https://bkurtz.io](https://bkurtz.io). 
 
